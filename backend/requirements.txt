@@ -1,0 +1,37 @@
+# =============================================================
+# NeuralChat Backend — Python Dependencies
+# =============================================================
+
+# FastAPI server
+fastapi
+uvicorn[standard]
+python-multipart
+
+# LangChain core
+langchain
+langchain-core
+langchain-openai
+langchain-community
+langchain-chroma
+langchain-text-splitters
+
+# Vector database
+chromadb
+
+# OpenAI / Azure OpenAI client
+openai
+httpx
+tiktoken
+
+# Document loading
+pypdf
+pdfminer.six
+python-docx
+unstructured
+
+# Environment variables
+python-dotenv
+
+# Utilities
+Pillow
+certifi

@@ -1,0 +1,10 @@
+This is a sample file for NeuralChat RAG system testing.
+It contains some simple text for testing vector embeddings.
+Vector embeddings are used to convert text into numerical vectors.
+Each line represents a separate piece of text.
+This can help in various NLP tasks such as document retrieval, classification, and clustering.
+Tata Consultancy Services (TCS) is a global IT services leader headquartered in Mumbai, India.
+TCS provides software development, consulting, and outsourcing services to clients worldwide.
+AI Agents are autonomous software programs that can perceive environments and take actions to achieve goals.
+Large Language Models (LLMs) are trained on vast amounts of text data and can generate human-like responses.
+Retrieval Augmented Generation (RAG) combines vector search with LLM generation for grounded, accurate answers.
